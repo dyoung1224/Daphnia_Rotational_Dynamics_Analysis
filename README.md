@@ -6,7 +6,7 @@ The script processes `.csv` files containing time-series motion data for each in
 
 ## Research Background
 
-This code was developed for an undergraduate research project at **CUNY Queens College** under the supervision of **Dr. Sebastian Alvarado**. The goal of the project is to investigate **behavioral and rotational trends** in Daphnia in response to environmental stimuli, using computational analysis and motion tracking.
+This code was developed for an undergraduate research project at **CUNY Queens College** under the supervision of **Dr. Oleg Kogan** (Physics Department) and **Dr. Sebastian Alvarado** (Biology Department). The goal of the project is to investigate **behavioral and rotational trends** in Daphnia in response to environmental stimuli, using computational analysis and motion tracking.
 
 This script represents the second step of the analysis pipeline, following the extraction of `.csv` motion data from the raw TREX `.npz` tracking files.
 
